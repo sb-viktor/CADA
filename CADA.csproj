@@ -12,6 +12,15 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
 
+	<PropertyGroup>
+		<Company></Company>
+		<Product></Product>
+		<Version>0.0.0.1-alpha</Version>
+		<Copyright></Copyright>
+		<Authors></Authors>
+		<Description></Description>
+	</PropertyGroup>
+
 	<ItemGroup>
 		<Folder Include="Models\" />
 		<AvaloniaResource Include="Assets\**" />
