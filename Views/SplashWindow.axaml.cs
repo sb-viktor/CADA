@@ -1,8 +1,6 @@
 using Avalonia.Controls;
 using Avalonia.Interactivity;
 using Avalonia.Threading;
-using System;
-using System.Threading.Tasks;
 
 namespace CADA.Views;
 

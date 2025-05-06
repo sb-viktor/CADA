@@ -4,7 +4,6 @@ using Avalonia.Data.Core.Plugins;
 using Avalonia.Markup.Xaml;
 using CADA.ViewModels;
 using CADA.Views;
-using System.Linq;
 
 namespace CADA;
 
